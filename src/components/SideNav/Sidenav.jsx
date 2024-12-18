@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import './Sidenav.css';
+import './SideNav.css';
 import { FaPlus } from 'react-icons/fa';
 import Modal from 'react-modal';
 
